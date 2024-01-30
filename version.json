@@ -1,17 +1,6 @@
 {
    "data":[
       {
-         "version":"0.5.19",
-         "required":[
-            "OK_CHART",
-            "HANEMAC",
-            "DONGEBOGAM",
-            "HANCHART",
-            "HANCHART_CLOUD"
-         ],
-         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.5.18/Setup_ZLKiosk_Cli_0.5.18.exe"
-      },
-      {
          "version":"0.5.18",
          "required":[
             "OK_CHART",
