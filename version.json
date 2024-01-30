@@ -8,4 +8,5 @@
       "version": "0.5.15",
       "required" : ["OK_CHART","HANEMAC","DONGEBOGAM","HANCHART","HANCHART_CLOUD"],
     }
+  ]
 }
