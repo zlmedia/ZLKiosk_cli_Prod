@@ -1,12 +1,24 @@
 {
-  data:[
+   "data":[
       {
-        "version": "0.5.16",
-        "required" : ["OK_CHART","HANEMAC","DONGEBOGAM","HANCHART","HANCHART_CLOUD"],
+         "version":"0.5.16",
+         "required":[
+            "OK_CHART",
+            "HANEMAC",
+            "DONGEBOGAM",
+            "HANCHART",
+            "HANCHART_CLOUD"
+         ]
       },
       {
-        "version": "0.5.15",
-        "required" : ["OK_CHART","HANEMAC","DONGEBOGAM","HANCHART","HANCHART_CLOUD"],
+         "version":"0.5.15",
+         "required":[
+            "OK_CHART",
+            "HANEMAC",
+            "DONGEBOGAM",
+            "HANCHART",
+            "HANCHART_CLOUD"
+         ]
       }
-    ]
+   ]
 }
