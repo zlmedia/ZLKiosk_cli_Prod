@@ -1,7 +1,7 @@
 {
    "data":[
       {
-         "version":"0.5.22",
+         "version":"0.5.19",
          "required":[
             "OK_CHART",
             "HANEMAC",
@@ -9,7 +9,7 @@
             "HANCHART",
             "HANCHART_CLOUD"
          ],
-         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.5.18/Setup_ZLKiosk_Cli_0.5.18.exe"
+         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.5.19/Setup_ZLKiosk_Cli_0.5.19.msi"
       },
       {
          "version":"0.5.18",
