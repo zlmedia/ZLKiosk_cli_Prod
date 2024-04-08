@@ -1,6 +1,13 @@
 {
    "data":[
       {
+         "version":"0.6.18",
+         "required":[
+            "DONGEBOGAM"
+         ],
+         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.6.18/Setup_ZLKiosk_Cli_0.6.18.msi"
+      },
+      {
          "version":"0.6.17",
          "required":[
             "OK_CHART",
