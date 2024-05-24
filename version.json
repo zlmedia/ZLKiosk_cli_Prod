@@ -1,22 +1,10 @@
 {
    "data":[
       {
-         "version":"0.7.13",
+         "version":"0.8.0",
          "required":[
          ],
-         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.7.13/Setup_ZLKiosk_Cli_0.7.13.msi"
-      },
-      {
-         "version":"0.7.12",
-         "required":[
-         ],
-         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.7.12/Setup_ZLKiosk_Cli_0.7.12.msi"
-      },
-      {
-         "version":"0.7.11",
-         "required":[
-         ],
-         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.7.11/Setup_ZLKiosk_Cli_0.7.11.msi"
+         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.8.0/Setup_ZLKiosk_Cli_0.8.0.msi"
       }
    ]
 }
