@@ -1,6 +1,12 @@
 {
    "data":[
       {
+         "version":"0.8.4",
+         "required":[
+         ],
+         "url":"https://github.com/zlmedia/ZLKiosk_cli_Prod/releases/download/v0.8.4/Setup_ZLKiosk_Cli_0.8.4.msi"
+      },
+      {
          "version":"0.8.2",
          "required":[
          ],
